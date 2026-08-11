@@ -44,7 +44,7 @@ Contains the raw Diwali sales dataset used for analysis.
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Data Cleaning & Preprocessing
 
@@ -92,7 +92,7 @@ These visualizations make it easier to identify patterns and compare different c
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 The analysis helps identify:
 
@@ -106,7 +106,7 @@ The analysis helps identify:
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical knowledge of:
 
@@ -124,7 +124,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-## 🎓 Project Purpose
+## Project Purpose
 
 This project was developed as a **data analysis and visualization project** to gain practical experience in working with real-world datasets and extracting meaningful insights using Python.
 
